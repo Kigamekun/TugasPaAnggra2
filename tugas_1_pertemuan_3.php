@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>doc </title>
+    <title>Tugas 1 Pertemuan 3 </title>
 </head>
 
 <body>
@@ -22,15 +22,19 @@
 
         <tr style="height: 200px;">
             <td>
-<center>
-    <b>Header</b>
-</center>
+                <center>
+                    <b>Header</b>
+                </center>
 
             </td>
 
         </tr>
 
 
+        <tr>
+        <td>
+            <table width="100%" >
+                
         <tr style="height: 600px;">
             <td>
 
@@ -52,6 +56,7 @@
                                     <td colspan="2"></td>
                                     <td colspan="3"></td>
                                 </tr>
+                            
                             </table>
 
 
@@ -143,6 +148,13 @@
 
 
         </tr>
+
+            </table>
+
+        </td>
+
+        </tr>
+
 
         <tr style="height: 200px;">
             <td align="center">
