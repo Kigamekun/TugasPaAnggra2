@@ -197,6 +197,21 @@
          </tbody>
       </table>
 
+      <br>
+      <table width="400px" height="400px" border="1" align="center"> 
+         <tr>
+            <td rowspan="2"></td>
+            <td></td>
+            <td></td>
+         </tr>
+
+         <tr>
+
+            <td colspan="2"></td>
+         </tr>
+      </table>
+
+
       <!-- tag br -->
 
       <br>
