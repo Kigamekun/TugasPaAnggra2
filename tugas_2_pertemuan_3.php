@@ -133,7 +133,7 @@
       </h5>
 
       <!-- tag table with height , width , border , cellspacing and align  -->
-      <table class="ws-table-all notranslate" border="1" height="200px" width="80%" cellspacing="0" align="center">
+      <table cellpadding="1" class="ws-table-all notranslate" border="1" height="200px" width="80%" cellspacing="0" align="center">
          <tbody>
             <tr>
                <th style="width:25%">Tag</th>
@@ -247,6 +247,11 @@
          <dd>Nginx</dd>
 
       </dl>
+
+      <font size="6" face="verdana">
+            coba!
+        </font>
+      <p style="font-family:verdana;size:2px;">Footer.</p>
       <footer style="width: 100%;">
             <center>
                <!-- bold -->
