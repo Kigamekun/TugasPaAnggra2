@@ -249,7 +249,8 @@
       </dl>
       <footer style="width: 100%;">
             <center>
-               <h6>Copyright Kiga</h6>
+               <!-- bold -->
+               <h6><b>Copyright Kiga</b></h6>
             </center>
 
       </footer>
