@@ -18,7 +18,7 @@
     </style>
 
 
-    <table width="100%" border="1" cellspacing="0">
+    <table width="70%"  border="1" style="margin:auto;" cellspacing="0" >
 
         <tr style="height: 200px;">
             <td>
